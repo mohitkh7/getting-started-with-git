@@ -38,6 +38,7 @@ This repository is for first time contributer to get accustomed with git. There 
 
 ## Exercise
 
+
 ### Exercise 0 - Introduce yourself
 Inside the Introduction folder create a new file < your_username >.md and write your brief introduction using markdown syntax.
 
