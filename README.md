@@ -6,17 +6,23 @@ This repository is for first time contributer to get accustomed with git. There 
 
 1. First, fork this repository to your account.
 
-2. Clone this repository (this would make rebasing easier).
+2. Make sure you have git installed in your system using this command in either gitbash or powershell or command prompt(windows) or terminal(ubuntu).
+    ```
+        git --help
+    ```
+If it gives error, you need to first [install git](https://git-scm.com/downloads).
+
+3. Clone this repository (this would make rebasing easier).
     ```
     git clone https://github.com/mohitkh7/getting-started-with-git.git
     ```
 
-3. Add a remote to your forked repository. This remote will be needed to push your changes to your repo.
+4. Add a remote to your forked repository. This remote will be needed to push your changes to your repo.
     ```
     git remote add myfork https://github.com/<username>/getting-started-with-git.git
     ```
 
-4. Create a new branch and switch to it. (make sure you are on master before doing this).
+5. Create a new branch and switch to it. (make sure you are on master before doing this).
     ```
     git branch mybranch
     git checkout mybranch
@@ -27,14 +33,14 @@ This repository is for first time contributer to get accustomed with git. There 
     git checkout -b mybranch
     ```
 
-5. Complete the exercise given below.
+6. Complete the exercise given below.
 
-6. After you are done making changes, push the branch to your fork.
+7. After you are done making changes, push the branch to your fork.
     ```
     git push -u myfork mybranch
     ```
 
-7. Then create a Pull Request from that branch using GitHub.
+8. Then create a Pull Request from that branch using GitHub.
 
 ## Exercise
 
