@@ -17,12 +17,17 @@ If it gives error, you need to first [install git](https://git-scm.com/downloads
     git clone https://github.com/mohitkh7/getting-started-with-git.git
     ```
 
-4. Add a remote to your forked repository. This remote will be needed to push your changes to your repo.
+4. Go to the local repository that was just cloned.
+    ```
+    cd getting-started-with-git.git
+    ```
+
+5. Add a remote to your forked repository. This remote will be needed to push your changes to your repo.
     ```
     git remote add myfork https://github.com/<username>/getting-started-with-git.git
     ```
 
-5. Create a new branch and switch to it. (make sure you are on master before doing this).
+6. Create a new branch and switch to it. (make sure you are on master before doing this).
     ```
     git branch mybranch
     git checkout mybranch
@@ -33,14 +38,14 @@ If it gives error, you need to first [install git](https://git-scm.com/downloads
     git checkout -b mybranch
     ```
 
-6. Complete the exercise given below.
+7. Complete the exercise given below.
 
-7. After you are done making changes, push the branch to your fork.
+8. After you are done making changes, push the branch to your fork.
     ```
     git push -u myfork mybranch
     ```
 
-8. Then create a Pull Request from that branch using GitHub.
+9. Then create a Pull Request from that branch using GitHub.
 
 ## Exercise
 
