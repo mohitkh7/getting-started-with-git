@@ -19,7 +19,7 @@ If it gives error, you need to first [install git](https://git-scm.com/downloads
 
 4. Go to the local repository that was just cloned.
     ```
-    cd getting-started-with-git.git
+    cd getting-started-with-git
     ```
 
 5. Add a remote to your forked repository. This remote will be needed to push your changes to your repo.
