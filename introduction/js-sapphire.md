@@ -6,10 +6,10 @@
 
 *js-sapphire*
 
-#College
+# College
 
 *NIT Durgapur*
 
-#About
+# About
 
 I like to code, dance, play and listen to music. Aren't these the most awesome things to be interested in.
