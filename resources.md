@@ -2,6 +2,7 @@ List of various resources for __Git__.
 ## Website
 * [GitHub Learning Lab](https://lab.github.com/)
 * [Git Tower](https://www.git-tower.com/learn/)
+* [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials)
 
 ## Videos
 * [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
