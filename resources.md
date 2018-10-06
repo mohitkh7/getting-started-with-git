@@ -9,6 +9,9 @@ List of various resources for __Git__.
 ## MOOCs
 * [Introduction to git - DataCamp](https://www.datacamp.com/courses/introduction-to-git-for-data-science)
 * [How to use git and github - Udacity](https://in.udacity.com/course/how-to-use-git-and-github--ud775-india)
+* [Version Control with Git](https://www.coursera.org/learn/version-control-with-git)
+* [Git Started with GitHub](https://www.udemy.com/git-started-with-github/)
+
 ## Cheat Sheets
 * [Github Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Git-Tower Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet)
