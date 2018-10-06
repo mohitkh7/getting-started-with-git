@@ -54,3 +54,6 @@ If it gives error, you need to first [install git](https://git-scm.com/downloads
 Inside the Introduction folder create a new file < your_username >.md and write your brief introduction using markdown syntax.
 
 For any help related to markdown you can refer this [guide](https://guides.github.com/features/mastering-markdown/).
+
+## Resources
+View complete list of git resources in [resources.md](https://github.com/mohitkh7/getting-started-with-git/blob/master/resources.md)
