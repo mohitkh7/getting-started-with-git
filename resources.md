@@ -10,6 +10,8 @@
 * [Git & GitHub Crash Course For Beginners](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 * [“Getting Git” by Scott Chacon](https://vimeo.com/14629850)
 * [Advanced Git](https://vimeo.com/49444883)
+* [Git Beginner's Tutorial](https://www.youtube.com/watch?v=8JJ101D3knE)
+
 
 ## Books
 * [Pro Git book, written by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
@@ -33,3 +35,5 @@
 ## Cheat Sheets
 * [Github Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 * [Git-Tower Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet)
+* [Atlassian Git Cheat Sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
